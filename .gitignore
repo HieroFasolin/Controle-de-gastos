@@ -1,57 +1,61 @@
-# Byte-compiled / cache files
+# ======================
+# Arquivos Python
+# ======================
 __pycache__/
 *.py[cod]
 *$py.class
 
-# Diretórios de build
-build/
-dist/
-*.egg-info/
-
-# Executáveis
-*.exe
-*.dll
-*.so
-*.dylib
-
-# Arquivos do PyInstaller
-*.spec
-
-# Logs e dumps
-*.log
-*.bak
-*.tmp
-
-# Arquivos de ambiente
+# ======================
+# Ambientes virtuais
+# ======================
 .env
 .venv/
 venv/
 env/
 
-# Arquivos de IDEs/editores
-.vscode/
-.idea/
+# ======================
+# Build e distribuição
+# ======================
+build/
+dist/
+*.egg-info/
+*.spec  # PyInstaller
 
-# Sistema operacional
-.DS_Store
-Thumbs.db
+# ======================
+# Executáveis e binários
+# ======================
+*.exe
+*.dll
+*.so
+*.dylib
 
-# Arquivos do Git LFS (evita confusões com arquivos grandes já rastreados)
-*.pkg
-
-# Arquivos de dados JSON
-dados/*.json
-data/*.json
-data_teste/*.json
-
-# Outros arquivos e diretórios a serem ignorados
-__pycache__/
-*.py[cod]
+# ======================
+# Logs e arquivos temporários
+# ======================
 *.log
 *.bak
 *.tmp
-.env
+
+# ======================
+# Arquivos de IDEs/editores
+# ======================
 .vscode/
 .idea/
+
+# ======================
+# Arquivos de sistema
+# ======================
 .DS_Store
 Thumbs.db
+
+# ======================
+# Git LFS / Arquivos grandes
+# ======================
+*.pkg
+
+# ======================
+# Arquivos de dados (personalizado do projeto)
+# ======================
+dados/*.json
+data/*.json
+data_teste/*.json
