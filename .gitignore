@@ -1,0 +1,57 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Diretórios de build
+build/
+dist/
+*.egg-info/
+
+# Executáveis
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Arquivos do PyInstaller
+*.spec
+
+# Logs e dumps
+*.log
+*.bak
+*.tmp
+
+# Arquivos de ambiente
+.env
+.venv/
+venv/
+env/
+
+# Arquivos de IDEs/editores
+.vscode/
+.idea/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos do Git LFS (evita confusões com arquivos grandes já rastreados)
+*.pkg
+
+# Arquivos de dados JSON
+dados/*.json
+data/*.json
+data_teste/*.json
+
+# Outros arquivos e diretórios a serem ignorados
+__pycache__/
+*.py[cod]
+*.log
+*.bak
+*.tmp
+.env
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
