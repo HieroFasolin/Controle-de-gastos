@@ -1,0 +1,36 @@
+[
+    {
+        "descricao": "vp demi",
+        "valor": "189.90",
+        "recorrente": true,
+        "parcelado": true,
+        "num_parcelas": 3,
+        "data_inicio": "01/03/2025",
+        "data_fim": "01/05/2025",
+        "pago": false,
+        "id": 1,
+        "historico_pagamentos": {
+            "03/2025": {
+                "pago": true,
+                "data_pagamento": "01/04/2025"
+            }
+        }
+    },
+    {
+        "descricao": "Psicóloga",
+        "valor": "600",
+        "recorrente": true,
+        "parcelado": false,
+        "data_inicio": "04/04/2025",
+        "data_fim": "",
+        "pago": true,
+        "data_pagamento": "03/04/2025",
+        "id": 2,
+        "historico_pagamentos": {
+            "04/2025": {
+                "pago": true,
+                "data_pagamento": "03/04/2025"
+            }
+        }
+    }
+]

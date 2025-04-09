@@ -1,0 +1,17 @@
+[
+    {
+        "descricao": "psicologa",
+        "valor": 500.0,
+        "recorrente": true,
+        "data_inicio": "01/04/2025",
+        "id": 1
+    },
+    {
+        "descricao": "teste",
+        "valor": 200.0,
+        "recorrente": false,
+        "mes": 4,
+        "ano": 2025,
+        "id": 2
+    }
+]

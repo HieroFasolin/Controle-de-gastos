@@ -1,0 +1,9 @@
+[
+    {
+        "descricao": "salario",
+        "valor": "1000",
+        "recorrente": true,
+        "data_inicio": "02/04/2025",
+        "id": 1
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "descricao": "sorvete",
+        "valor": "30",
+        "data": "02/04/2025",
+        "categoria": "Alimentação",
+        "id": 2
+    },
+    {
+        "descricao": "onibus",
+        "valor": "20",
+        "data": "02/04/2025",
+        "categoria": "Transporte",
+        "id": 3
+    },
+    {
+        "descricao": "casa",
+        "valor": "300",
+        "data": "02/04/2025",
+        "categoria": "Moradia",
+        "id": 4
+    }
+]

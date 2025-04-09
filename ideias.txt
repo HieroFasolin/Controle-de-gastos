@@ -1,0 +1,21 @@
+# Ideias para o Controle Financeiro
+
+## Funcionalidades a implementar
+- [x] Sistema de lembretes para contas não pagas
+- [x] Campo de data limite para pagamento de contas fixas
+- [ ] Gráfico de evolução de gastos ao longo do tempo
+- [ ] Exportação de relatórios em excel
+- [ ] Sistema de metas de economia
+- [ ] Notificações por e-mail
+- [ ] Mobile
+- [ ] Modo escuro
+
+## Melhorias técnicas
+- [ ] Adicionar testes automatizados
+- [ ] Criar instalador para Windows/Mac/Linux
+
+
+## Notas pessoais
+- Preciso melhorar a interface
+
+
